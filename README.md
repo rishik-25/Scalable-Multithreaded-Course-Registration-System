@@ -132,27 +132,27 @@ Graceful server termination is implemented using:
 
 ### Server Startup
 
-![Server Startup](screenshots/server_startup.png)
+![Server Startup](screenshots/server_startup.jpg)
 
 ### Administrator Management
 
-![Admin Operations](screenshots/admin_user_management.png)
+![Admin Operations](screenshots/admin_user_management.jpg)
 
 ### Faculty Course Creation
 
-![Faculty Operations](screenshots/faculty_add_course.png)
+![Faculty Operations](screenshots/faculty_add_course.jpg)
 
 ### Student Enrollment
 
-![Student Enrollment](screenshots/student_course_enrollment.png)
+![Student Enrollment](screenshots/student_course_enrollment.jpg)
 
 ### Student Registered Courses
 
-![Student Courses](screenshots/student_view_courses.png)
+![Student Courses](screenshots/student_view_courses.jpg)
 
 ### Faculty Enrollment Tracking
 
-![Faculty Enrollments](screenshots/faculty_view_enrollments.png)
+![Faculty Enrollments](screenshots/faculty_view_enrollments.jpg)
 
 ## Persistent Storage
 
