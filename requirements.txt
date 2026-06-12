@@ -1,0 +1,4 @@
+GCC 9.0+
+POSIX Threads (pthread)
+POSIX Sockets
+Linux Kernel 5.x+

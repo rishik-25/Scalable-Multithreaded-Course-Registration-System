@@ -1,0 +1,11 @@
+*.o
+*.out
+*.exe
+
+admin.dat
+students.dat
+faculty.dat
+
+.vscode/
+
+__pycache__
